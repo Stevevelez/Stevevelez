@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Estivenson</h1>
+<h3 align="center">a MBA and Business Analys based in Toronto</h3>
+
 - 🔭 I’m currently working on **projects requiring forecasting for decision-making.**
 
 - 🌱 I’m currently learning **AWS cloud.**

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Estivenson</h1>
-<h3 align="center">a MBA and Business Analyst based in Toronto, Canada.</h3>
+<h3 align="center"> an MBA and Business Analyst based in Toronto, Canada.</h3>
 
 - 🔭 I’m currently working on **projects requiring forecasting for decision-making.**
 
@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Machine Learning.**
 
-- 📝 I co-wrote an article avalaible on [https://www.researchgate.net/publication/307856516_Innovation_strategy](https://www.researchgate.net/publication/307856516_Innovation_strategy)
+- 📝 I co-wrote an article available on [https://www.researchgate.net/publication/307856516_Innovation_strategy](https://www.researchgate.net/publication/307856516_Innovation_strategy)
 
 - 💬 Ask me about **leveraging insights using your company databases.**
 
